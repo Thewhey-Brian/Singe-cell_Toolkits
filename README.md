@@ -3,9 +3,9 @@ Notes for toolkits of single-cell analysis
 
 ## Package
 ### R Package
-* HDF5Array
-* rhdf5
-* Seurat
+* HDF5Array (https://www.bioconductor.org/packages/devel/bioc/manuals/HDF5Array/man/HDF5Array.pdf)
+* rhdf5 (https://bioconductor.org/packages/release/bioc/vignettes/rhdf5/inst/doc/rhdf5_cloud_reading.html)
+* Seurat (Using "@" to access the Seurat object; https://satijalab.org/seurat/articles/essential_commands.html)
 * SeuratDisk
 * uwot
 * umap
